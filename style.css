@@ -188,7 +188,7 @@ header * {
 
 /* Offers start */
 #offers {
-    height: 50vh;
+    height: 70vh;
     display: flex;
     justify-content: center;
     height: 80vh;
@@ -216,15 +216,16 @@ header * {
     align-items: center;
     text-align: center;
     color: #ffffff;
+    
 }
 
 #offers .offers-items img {
     width: 400px;
+    margin-top: -30px;
 }
 
 #offers .offers-items h3 {
     font-size: 25px;
-    margin: 15px 0;
 }
 
 #offers .offers-items p {
@@ -473,5 +474,6 @@ textarea {
     font-size: 15px;
     font-weight: 500;
 }
+
 
 /* Footer End */
